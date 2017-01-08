@@ -1,0 +1,22 @@
+{
+  "name": "andrewdichabeng.github.io",
+  "version": "1.0.0",
+  "description": "My developer profile webpage for github.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewDichabeng/AndrewDichabeng.github.io.git"
+  },
+  "author": "Andrew Dichabeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewDichabeng/AndrewDichabeng.github.io/issues"
+  },
+  "homepage": "https://github.com/AndrewDichabeng/AndrewDichabeng.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
