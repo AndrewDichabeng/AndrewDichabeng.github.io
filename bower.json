@@ -1,0 +1,14 @@
+{
+  "name": "AndrewDichabeng.github.io",
+  "homepage": "https://github.com/AndrewDichabeng/AndrewDichabeng.github.io",
+  "authors": [
+    "Andrew Dichabeng <adichabeng@gmail.com>"
+  ],
+  "description": "My developer profile page to be hosted on Github.io",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
