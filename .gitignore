@@ -1,2 +1,8 @@
-# npm and node modules
-node_modules/
+# npm and node modules [ NOTE : To be removed from the final project ]
+#node_modules
+
+# bower modules [ NOTE : To be removed from the final project ]
+# bower_components
+
+# project files [ NOTE : To be removed from the final project ]
+# .idea

@@ -1,3 +1,3 @@
 ## Project : AndrewDichabeng.github.io
 
-- My developer profile webpage [build-status : under construction].
+- My developer profile web page [build-status : under construction].
